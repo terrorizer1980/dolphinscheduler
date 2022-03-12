@@ -66,7 +66,7 @@
         <logback.version>1.2.3</logback.version>
         <hadoop.version>2.7.3</hadoop.version>
         <quartz.version>2.3.0</quartz.version>
-        <jackson.version>2.10.5</jackson.version>
+        <jackson.version>2.13.0</jackson.version>
         <mybatis-plus.version>3.2.0</mybatis-plus.version>
         <mybatis.spring.version>2.0.1</mybatis.spring.version>
         <cron.utils.version>5.0.5</cron.utils.version>
@@ -89,11 +89,11 @@
         <javax.servlet.api.version>3.1.0</javax.servlet.api.version>
         <commons.collections4.version>4.1</commons.collections4.version>
         <guava.version>24.1-jre</guava.version>
-        <postgresql.version>42.2.5</postgresql.version>
+        <postgresql.version>42.3.3</postgresql.version>
         <hive.jdbc.version>2.1.0</hive.jdbc.version>
         <commons.io.version>2.4</commons.io.version>
         <oshi.core.version>3.9.1</oshi.core.version>
-        <clickhouse.jdbc.version>0.1.52</clickhouse.jdbc.version>
+        <clickhouse.jdbc.version>0.3.2</clickhouse.jdbc.version>
         <mssql.jdbc.version>6.1.0.jre8</mssql.jdbc.version>
         <presto.jdbc.version>0.238.1</presto.jdbc.version>
         <spotbugs.version>3.1.12</spotbugs.version>
