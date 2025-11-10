@@ -94,7 +94,7 @@
         <commons.io.version>2.4</commons.io.version>
         <oshi.core.version>3.9.1</oshi.core.version>
         <clickhouse.jdbc.version>0.1.52</clickhouse.jdbc.version>
-        <mssql.jdbc.version>6.1.0.jre8</mssql.jdbc.version>
+        <mssql.jdbc.version>10.2.4.jre8</mssql.jdbc.version>
         <presto.jdbc.version>0.238.1</presto.jdbc.version>
         <spotbugs.version>3.1.12</spotbugs.version>
         <checkstyle.version>3.0.0</checkstyle.version>
